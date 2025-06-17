@@ -50,4 +50,4 @@ This project demonstrates fundamental concepts in **network programming**, **con
 In conclusion, this Java-based chat application provides a strong foundation for building real-time communication systems. It can be further extended into a complete messaging platform with features such as user authentication, message encryption, chat history, and file sharing. The integration of robust backend logic with an intuitive frontend offers a comprehensive learning experience in full-stack software development.
 
 ---
-
+*OUTPUT* : ![Image](https://github.com/user-attachments/assets/d050c574-68e8-4c57-b6a4-7cc57a0eed25)
